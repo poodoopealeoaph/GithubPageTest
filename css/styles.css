@@ -10922,3 +10922,13 @@ footer.footer {
   margin-bottom: 20px;
   margin-top: 20px;
 }
+
+#main-head {
+  font-size: 100px;
+}
+
+.bonheur-royale-regular {
+  font-family: "Bonheur Royale", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
